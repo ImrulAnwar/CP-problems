@@ -1,0 +1,7 @@
+# ninja log v5
+2	281	6790643815277894	CMakeFiles/practiceCP.dir/main.cpp.obj	ee061c99fd1b1da2
+281	366	6790643815998550	practiceCP.exe	df6e56949d9bf19a
+0	121	6790655095260775	build.ninja	71daaa428644a3c2
+2	268	6790655098303548	CMakeFiles/practiceCP.dir/Recursion.cpp.obj	53e3b028727a9b7f
+4	271	6790655098323565	CMakeFiles/practiceCP.dir/main.cpp.obj	ee061c99fd1b1da2
+271	357	6790655099064235	practiceCP.exe	aaa6563717ca3e39
